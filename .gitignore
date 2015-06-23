@@ -1,0 +1,2 @@
+somefile*
+#This ignores all files named somefile with anything after it
